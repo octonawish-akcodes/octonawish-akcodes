@@ -5,6 +5,7 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek22512@gmail.com)](mailto:abhishek22512@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AbhishekKtwt)](https://twitter.com/AbhishekKtwt)
 
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
