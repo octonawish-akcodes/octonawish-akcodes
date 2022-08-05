@@ -81,9 +81,9 @@ The Cloud Native Computing Foundation organizes this flagship conference which g
 <br/> What is DevOps?<br>
 In this blog, we are going to discuss why there is a need to evolve DevOps in the IT industry. We will be going to Dive deep into the DevOps in order to understand what actually this thing is.</p>
 <br>
-
+<br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+for+visiting!!!"
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
 </p>
 	
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
