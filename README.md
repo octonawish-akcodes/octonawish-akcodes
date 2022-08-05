@@ -54,3 +54,11 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
 </p>
+
+## My Recent Blogs
+
+<p align="left">
+<a href="https://blog.commclassroom.org/a-complete-guide-to-gsoc" title="A complete guide to GSoC"><img src="https://blog.commclassroom.org/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1656592222013%2FeY_tK_Trk.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="A complete guide to GSoC" width="250px" align="left" /></a>
+<a href="https://blog.commclassroom.org/a-complete-guide-to-gsoc" title="A complete guide to GSoC"><strong>A complete guide to GSoC</strong></a>
+<br/> What is GSoC?<br>
+GSoC(Google Summer Of Code) is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12+ week programming project with the guidance of mentors from their open-source organization. </p>
