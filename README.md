@@ -51,7 +51,6 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 ## 📈 Stats
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=octonawish-akcodes&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
 </p>
@@ -59,27 +58,29 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 ## My Recent Blogs
 
 <p align="left">
-<a href="https://blog.commclassroom.org/a-complete-guide-to-gsoc" title="A complete guide to GSoC"><img src="https://blog.commclassroom.org/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1656592222013%2FeY_tK_Trk.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="A complete guide to GSoC" width="250px" align="left" /></a>
-<a href="https://blog.commclassroom.org/a-complete-guide-to-gsoc" title="A complete guide to GSoC"><strong>A complete guide to GSoC</strong></a>
-<br/> What is GSoC?<br>
-GSoC(Google Summer Of Code) is a global, online mentoring program focused on introducing new contributors to open source software development. GSoC contributors work on a 12+ week programming project with the guidance of mentors from their open-source organization. </p>
+<a href="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" title="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!"><img src="https://abhishekk.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1663128676686%2F60WrmqLx-.webp%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" width="250px" align="left" /></a>
+<a href="https://abhishekk.hashnode.dev/scaling-hotstar-for-millions-of-users-with-no-downtime-miracle-or-engineering" title="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!"><strong>Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!</strong></a>
+
+How many of you are familiar with OTT(over-the-top) platform "Hotstar", I guess many of you are familiar with it and for those who are not familar what "Hotstar" is, Disney+ Hotstar (also known as Hotstar) is an Indian brand of subscription video on-demand over-the-top streaming service owned by Novi Digital Entertainment of Disney Star and operated by Disney Media and Entertainment Distribution...</p>
+
+<p align="left">
+<a href="https://blog.wemakedevs.org/how-i-won-my-first-hackathon" title="How I won my first Hackathon"><img src="https://blog.wemakedevs.org/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1670682879481%2FFZEIJLA4x.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How I won my first Hackathon" width="250px" align="left" /></a>
+<a href="https://blog.wemakedevs.org/how-i-won-my-first-hackathon" title="How I won my first Hackathon"><strong>How I won my first Hackathon</strong></a>
+	
+Wait Wait Wait!!! What is a hackathon man, Okay Okay Let me tell you about that first and share with you my journey "How a beginner in a hackathon won it at the very first attempt" afterward.</p>
 <br>
+
 <p align="left">
-<a href="https://blog.kubeworld.org/everything-about-cncf" title="Everything about CNCF"><img src="https://blog.kubeworld.org/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1655736127046%2FADqIzYVB0.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Everything about CNCF" width="250px" align="left" /></a>
-<a href="https://blog.kubeworld.org/everything-about-cncf" title="Everything about CNCF"><strong>Everything about CNCF</strong></a>
-<br/> What is CNCF?<br>
-CNCF (Cloud Native Computing Foundation) is a Linux Foundation project founded in 2015 to help advance container technology and align the tech industry around its evolution. It was announced alongside Kubernetes 1.0, an open-source container cluster manager, contributing to the Linux Foundation by Google as a seed technology.</p>
-<p align="left">
-<a href="https://kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><img src="https://kubesimplify.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1653670362189%2F6b_13fFbT.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="My Kubecon Experience(Virtual)" width="250px" align="left" /></a>
-<a href="https://kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><strong>My Kubecon Experience(Virtual)</strong></a>
-<br/> What is Kubecon?<br>
+<a href="https://blog.kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><img src="https://blog.kubesimplify.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1653670362189%2F6b_13fFbT.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="My Kubecon Experience(Virtual)" width="250px" align="left" /></a>
+<a href="https://blog.kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><strong>My Kubecon Experience(Virtual)</strong></a>
+
 The Cloud Native Computing Foundation organizes this flagship conference which gathers adopters and technologists from leading open source and cloud-native communities together in one place.</p>
 <br>
-<br>
+
 <p align="left">
-<a href="https://kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><img src="https://kubesimplify.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1649860495113%2FoqWCCcT_1.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="A Complete Walkthrough of DevOps" width="250px" align="left" /></a>
-<a href="https://kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><strong>A Complete Walkthrough of DevOps</strong></a>
-<br/> What is DevOps?<br>
+<a href="https://blog.kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><img src="https://blog.kubesimplify.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1649860495113%2FoqWCCcT_1.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="A Complete Walkthrough of DevOps" width="250px" align="left" /></a>
+<a href="https://blog.kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><strong>A Complete Walkthrough of DevOps</strong></a>
+
 In this blog, we are going to discuss why there is a need to evolve DevOps in the IT industry. We will be going to Dive deep into the DevOps in order to understand what actually this thing is.</p>
 <br>
 <br>
