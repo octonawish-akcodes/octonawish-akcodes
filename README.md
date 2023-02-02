@@ -12,6 +12,8 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 </div>
 
 
+
+
 ## ⚡ Technologies
 
 ### Language :
@@ -49,11 +51,12 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 
 
 ## 📈 Stats
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=octonawish-akcodes&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
 </p>
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=octonawish-akcodes&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Recent Blogs
 
