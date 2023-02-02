@@ -67,7 +67,7 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 How many of you are familiar with OTT(over-the-top) platform "Hotstar", I guess many of you are familiar with it and for those who are not familar what "Hotstar" is, Disney+ Hotstar (also known as Hotstar) is an Indian brand of subscription video on-demand over-the-top streaming service owned by Novi Digital Entertainment of Disney Star and operated by Disney Media and Entertainment Distribution...</p>
 
 <p align="left">
-<a href="https://blog.wemakedevs.org/how-i-won-my-first-hackathon" title="How I won my first Hackathon"><img src="https://blog.wemakedevs.org/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1670682879481%2FFZEIJLA4x.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How I won my first Hackathon" width="250px" align="left" /></a>
+<a href="https://blog.wemakedevs.org/how-i-won-my-first-hackathon" title="How I won my first Hackathon"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660827803587/ATrl5k45V.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How I won my first Hackathon" width="250px" align="left" /></a>
 <a href="https://blog.wemakedevs.org/how-i-won-my-first-hackathon" title="How I won my first Hackathon"><strong>How I won my first Hackathon</strong></a>
 	
 Wait Wait Wait!!! What is a hackathon man, Okay Okay Let me tell you about that first and share with you my journey "How a beginner in a hackathon won it at the very first attempt" afterward.</p>
