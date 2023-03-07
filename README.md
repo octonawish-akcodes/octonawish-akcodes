@@ -1,6 +1,6 @@
 ## Hi, I am Abhishek! Glad to see you here! 👋
 
-I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source person. I am always open to collaborate on projects. You can connect with me here:
+I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source person who is currently learning cloud native technologies. I am always open to collaborate on projects. You can connect with me here:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
