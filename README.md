@@ -61,7 +61,7 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
 ## My Recent Blogs
 
 <p align="left">
-<a href="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" title="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!"><img src="https://abhishekk.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1663128676686%2F60WrmqLx-.webp%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" width="250px" align="left" /></a>
+<a href="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" title="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663128676686/60WrmqLx-.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" width="250px" align="left" /></a>
 <a href="https://abhishekk.hashnode.dev/scaling-hotstar-for-millions-of-users-with-no-downtime-miracle-or-engineering" title="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!"><strong>Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!</strong></a>
 
 How many of you are familiar with OTT(over-the-top) platform "Hotstar", I guess many of you are familiar with it and for those who are not familar what "Hotstar" is, Disney+ Hotstar (also known as Hotstar) is an Indian brand of subscription video on-demand over-the-top streaming service owned by Novi Digital Entertainment of Disney Star and operated by Disney Media and Entertainment Distribution...</p>
@@ -74,14 +74,14 @@ Wait Wait Wait!!! What is a hackathon man, Okay Okay Let me tell you about that 
 <br>
 
 <p align="left">
-<a href="https://blog.kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><img src="https://blog.kubesimplify.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1653670362189%2F6b_13fFbT.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="My Kubecon Experience(Virtual)" width="250px" align="left" /></a>
+<a href="https://blog.kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653670362189/6b_13fFbT.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="My Kubecon Experience(Virtual)" width="250px" align="left" /></a>
 <a href="https://blog.kubesimplify.com/my-kubecon-euvirtual-experience" title="My Kubecon experience(Virtual)"><strong>My Kubecon Experience(Virtual)</strong></a>
 
 The Cloud Native Computing Foundation organizes this flagship conference which gathers adopters and technologists from leading open source and cloud-native communities together in one place.</p>
 <br>
 
 <p align="left">
-<a href="https://blog.kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><img src="https://blog.kubesimplify.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1649860495113%2FoqWCCcT_1.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="A Complete Walkthrough of DevOps" width="250px" align="left" /></a>
+<a href="https://blog.kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649860495113/oqWCCcT_1.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="A Complete Walkthrough of DevOps" width="250px" align="left" /></a>
 <a href="https://blog.kubesimplify.com/a-complete-walk-through-of-devops" title="A Complete Walkthrough of DevOps"><strong>A Complete Walkthrough of DevOps</strong></a>
 
 In this blog, we are going to discuss why there is a need to evolve DevOps in the IT industry. We will be going to Dive deep into the DevOps in order to understand what actually this thing is.</p>
