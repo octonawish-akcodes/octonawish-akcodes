@@ -1,54 +1,51 @@
-## Hi, I am Abhishek! Glad to see you here! 👋
+# Hello, World! 👋
 
-I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source person who is currently learning cloud native technologies. I am always open to collaborate on projects. You can connect with me here:
+I'm Abhishek, a passionate developer from India.
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
-[![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek22512@gmail.com)](mailto:abhishek22512@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AbhishekKtwt)](https://twitter.com/AbhishekKtwt)
+- 🔭 I’m currently working on Hand Tracking emoticon integration project.
+- 🌱 I’m currently learning GoLang.
+- 👯 I’m always contributing to Open Source Projects related to the AI world.
+- 💬 Ask me about Python, Backend, Machine Learning.
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek22512@gmail.com)](mailto:abhishek22512@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/) [![Twitter Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AbhishekKtwt)](https://twitter.com/AbhishekKtwt)
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I get more sleepy after drinking a cup of coffee ☕.
 
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 
-
-
-
 ## ⚡ Technologies
 
-### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+### Language:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Libraries & Framework :
+### Libraries & Framework:
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+### Cloud & Containerization:
 
-### Additional Tools:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-
+### Databases:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📈 Stats
 <p align="center"> 
@@ -56,7 +53,7 @@ I am a self taught Full Stack Developer. I am a tech enthusiast & an open-source
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
 </p>
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=octonawish-akcodes&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=octonawish-akcodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Recent Blogs
 
