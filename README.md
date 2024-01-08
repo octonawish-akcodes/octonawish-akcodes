@@ -47,7 +47,7 @@ I'm Abhishek, a passionate developer from India.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📈 Stats
+## 📈 Stats:
 <p align="center"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
@@ -55,7 +55,7 @@ I'm Abhishek, a passionate developer from India.
 
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=octonawish-akcodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## My Recent Blogs
+## My Recent Blogs:
 
 <p align="left">
 <a href="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" title="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663128676686/60WrmqLx-.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Scaling Hotstar for Millions of Users with No Downtime, Miracle, or Engineering!!!" width="250px" align="left" /></a>
