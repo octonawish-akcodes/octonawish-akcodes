@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Highlights: 74→98% production AI agent stability via autonomous eval workflows; 40→88% team ticket SLA adherence after rebuilding ops; +55% user engagement from AI features I shipped; 🏆 ×2 Champion Award, BrowserStack Dec 2025 · Mar 2026; −40% deployment failures after moving 10+ services to EKS; 1M+ records/day through ETL pipelines I built at Refyne; −80% ML training time with SageMaker infrastructure; GSoC Google Summer of Code SPCL · ETH Zürich">
+<style>.c{animation:f .5s ease-out both}@keyframes f{from{opacity:0;transform:translateY(6px)}}</style>
+<g class="c" style="animation-delay:0.00s">
+<rect x="0.5" y="0.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="210.0" height="3" rx="1.5" fill="#7ee787" opacity=".85"/>
+<text x="105.5" y="56" text-anchor="middle" fill="#7ee787" font-size="30" font-weight="700">74→98%</text>
+<text x="105.5" y="86" text-anchor="middle" fill="#c9d1d9" font-size="13">production AI agent stability</text>
+<text x="105.5" y="104" text-anchor="middle" fill="#8b949e" font-size="13">via autonomous eval workflows</text>
+</g>
+<g class="c" style="animation-delay:0.08s">
+<rect x="223.5" y="0.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="223.5" y="0.5" width="210.0" height="3" rx="1.5" fill="#7ee787" opacity=".85"/>
+<text x="328.5" y="56" text-anchor="middle" fill="#7ee787" font-size="30" font-weight="700">40→88%</text>
+<text x="328.5" y="86" text-anchor="middle" fill="#c9d1d9" font-size="13">team ticket SLA adherence</text>
+<text x="328.5" y="104" text-anchor="middle" fill="#8b949e" font-size="13">after rebuilding ops</text>
+</g>
+<g class="c" style="animation-delay:0.16s">
+<rect x="446.5" y="0.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="446.5" y="0.5" width="210.0" height="3" rx="1.5" fill="#7ee787" opacity=".85"/>
+<text x="551.5" y="56" text-anchor="middle" fill="#7ee787" font-size="30" font-weight="700">+55%</text>
+<text x="551.5" y="86" text-anchor="middle" fill="#c9d1d9" font-size="13">user engagement from</text>
+<text x="551.5" y="104" text-anchor="middle" fill="#8b949e" font-size="13">AI features I shipped</text>
+</g>
+<g class="c" style="animation-delay:0.24s">
+<rect x="669.5" y="0.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="669.5" y="0.5" width="210.0" height="3" rx="1.5" fill="#e3b341" opacity=".85"/>
+<text x="774.5" y="56" text-anchor="middle" fill="#e3b341" font-size="30" font-weight="700">🏆 ×2</text>
+<text x="774.5" y="86" text-anchor="middle" fill="#c9d1d9" font-size="13">Champion Award, BrowserStack</text>
+<text x="774.5" y="104" text-anchor="middle" fill="#8b949e" font-size="13">Dec 2025 · Mar 2026</text>
+</g>
+<g class="c" style="animation-delay:0.32s">
+<rect x="0.5" y="136.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="0.5" y="136.5" width="210.0" height="3" rx="1.5" fill="#79c0ff" opacity=".85"/>
+<text x="105.5" y="192" text-anchor="middle" fill="#79c0ff" font-size="30" font-weight="700">−40%</text>
+<text x="105.5" y="222" text-anchor="middle" fill="#c9d1d9" font-size="13">deployment failures after</text>
+<text x="105.5" y="240" text-anchor="middle" fill="#8b949e" font-size="13">moving 10+ services to EKS</text>
+</g>
+<g class="c" style="animation-delay:0.40s">
+<rect x="223.5" y="136.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="223.5" y="136.5" width="210.0" height="3" rx="1.5" fill="#79c0ff" opacity=".85"/>
+<text x="328.5" y="192" text-anchor="middle" fill="#79c0ff" font-size="30" font-weight="700">1M+</text>
+<text x="328.5" y="222" text-anchor="middle" fill="#c9d1d9" font-size="13">records/day through ETL</text>
+<text x="328.5" y="240" text-anchor="middle" fill="#8b949e" font-size="13">pipelines I built at Refyne</text>
+</g>
+<g class="c" style="animation-delay:0.48s">
+<rect x="446.5" y="136.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="446.5" y="136.5" width="210.0" height="3" rx="1.5" fill="#79c0ff" opacity=".85"/>
+<text x="551.5" y="192" text-anchor="middle" fill="#79c0ff" font-size="30" font-weight="700">−80%</text>
+<text x="551.5" y="222" text-anchor="middle" fill="#c9d1d9" font-size="13">ML training time with</text>
+<text x="551.5" y="240" text-anchor="middle" fill="#8b949e" font-size="13">SageMaker infrastructure</text>
+</g>
+<g class="c" style="animation-delay:0.56s">
+<rect x="669.5" y="136.5" width="210.0" height="123" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="669.5" y="136.5" width="210.0" height="3" rx="1.5" fill="#d2a8ff" opacity=".85"/>
+<text x="774.5" y="192" text-anchor="middle" fill="#d2a8ff" font-size="30" font-weight="700">GSoC</text>
+<text x="774.5" y="222" text-anchor="middle" fill="#c9d1d9" font-size="13">Google Summer of Code</text>
+<text x="774.5" y="240" text-anchor="middle" fill="#8b949e" font-size="13">SPCL · ETH Zürich</text>
+</g>
+</svg>

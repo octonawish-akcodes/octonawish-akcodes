@@ -29,38 +29,26 @@
 ## `$ cat about.yaml`
 
 ```yaml
-name:      Abhishek Kumar
-role:      AI Engineer @ BrowserStack
-based_in:  India  →  open to London · Amsterdam · Berlin
+name: Abhishek Kumar
+role: AI Engineer @ BrowserStack
 focus:
   - LLM evaluation & autonomous eval workflows
   - Agentic workflows that survive real users
   - Model selection: accuracy × latency × cost × stability
   - Production AI infra on AWS / GCP / Kubernetes
 background:
-  - Data Engineer @ Refyne       # Airflow pipelines, 1M+ records/day, SageMaker infra
-  - GSoC @ SPCL, ETH Zürich      # serverless benchmarking with Knative
+  - Data Engineer @ Refyne   # Airflow, 1M+ records/day, SageMaker
+  - GSoC @ SPCL, ETH Zürich  # serverless benchmarking, Knative
   - Linux Foundation LiFT Scholar & Dan Kohn Scholarship
 philosophy: "A demo is easy. A reliable agent is engineering."
-fun_fact:   "Coffee makes me sleepy ☕"
+fun_fact: "Coffee makes me sleepy ☕"
 ```
 
 ## `$ ./highlights --sort impact`
 
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>74→98%</h2><sub>production AI agent stability<br/>through autonomous eval workflows</sub></td>
-    <td align="center" width="25%"><h2>40→88%</h2><sub>team ticket SLA adherence<br/>after rebuilding ops from scratch</sub></td>
-    <td align="center" width="25%"><h2>+55%</h2><sub>user engagement from<br/>AI features I shipped</sub></td>
-    <td align="center" width="25%"><h2>🏆 ×2</h2><sub>Champion Award<br/>BrowserStack · Dec '25 & Mar '26</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><h2>−40%</h2><sub>deployment failures after<br/>migrating 10+ services to EKS</sub></td>
-    <td align="center"><h2>1M+</h2><sub>records/day through ETL<br/>pipelines I built at Refyne</sub></td>
-    <td align="center"><h2>−80%</h2><sub>ML training time with<br/>SageMaker infra</sub></td>
-    <td align="center"><h2>GSoC</h2><sub>Google Summer of Code<br/>SPCL @ ETH Zürich</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/highlights.svg" width="880" alt="Highlights: 74→98% agent stability, 40→88% SLA adherence, +55% engagement, 2× Champion Award, −40% deployment failures, 1M+ records/day, −80% ML training time, GSoC" />
+</p>
 
 ## `$ ls ~/stack`
 

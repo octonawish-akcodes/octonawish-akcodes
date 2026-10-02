@@ -59,7 +59,7 @@
 
     <text x="28" y="326" class="line l10"><tspan class="prompt">❯</tspan><tspan class="cmd"> echo $NEXT</tspan></text>
     <text x="28" y="350" class="line l11" fill="#e6edf3">Building AI agents that don't break, and logging all of it in public.</text>
-    <text x="28" y="374" class="line l12"><tspan class="out">→ </tspan><tspan class="hi">x.com/logsofabhi</tspan><tspan class="out">  ·  open to AI engineering roles in Europe</tspan></text>
+    <text x="28" y="374" class="line l12"><tspan class="out">→ </tspan><tspan class="hi">x.com/logsofabhi</tspan><tspan class="out">  ·  building in public</tspan></text>
 
     <text x="28" y="408" class="line l12"><tspan class="prompt">❯</tspan></text>
     <rect class="cursor" x="44" y="395" width="9" height="17" fill="#e6edf3"/>
