@@ -1,20 +1,19 @@
 <!-- ░░ HEADER ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7ee787&height=210&section=header&text=Abhishek%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=I%20make%20AI%20agents%20work%20in%20production&descSize=20&descAlignY=58&animation=fadeIn" alt="Abhishek Kumar: I make AI agents work in production" />
+  <img src="./assets/static/header.svg" alt="Abhishek Kumar: I make AI agents work in production" />
 </p>
 
 <p align="center">
   <a href="https://x.com/logsofabhi">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7EE787&center=true&vCenter=true&width=640&lines=AI+Engineer+%40+BrowserStack;LLM+evals+%C2%B7+agent+reliability+%C2%B7+model+selection;Took+a+prod+agent+from+74%25+%E2%86%92+98%25+stability;Data+%2B+Cloud+%2B+AI+%E2%86%92+systems+that+don't+break;Logging+everything+I+learn+%E2%86%92+%40logsofabhi" alt="Typing intro" />
+    <img src="./assets/static/typing.svg" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/logsofabhi"><img src="https://img.shields.io/badge/@logsofabhi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-kumar12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abhishek22512@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://abhishekk.hashnode.dev"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
-  <img src="https://komarev.com/ghpvc/?username=octonawish-akcodes&style=for-the-badge&color=7ee787&label=VISITORS" alt="Profile views" />
+  <a href="https://x.com/logsofabhi"><img src="./assets/badges/x.svg" height="36" alt="X @logsofabhi" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar12/"><img src="./assets/badges/linkedin.svg" height="36" alt="LinkedIn" /></a>
+  <a href="mailto:abhishek22512@gmail.com"><img src="./assets/badges/email.svg" height="36" alt="Email" /></a>
+  <a href="https://abhishekk.hashnode.dev"><img src="./assets/badges/blog.svg" height="36" alt="Blog" /></a>
 </p>
 
 <br/>
@@ -53,21 +52,13 @@ fun_fact: "Coffee makes me sleepy ☕"
 ## `$ ls ~/stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,js,bash,fastapi,django,pytorch,tensorflow,sklearn&perline=9" alt="Languages & ML" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,linux,git&perline=9" alt="Cloud & DevOps" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=9" alt="Databases" />
+  <img src="./assets/static/stack-lang.svg" alt="Languages & ML" /><br/><br/>
+  <img src="./assets/static/stack-cloud.svg" alt="Cloud & DevOps" /><br/><br/>
+  <img src="./assets/static/stack-db.svg" alt="Databases" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM_Evals-7ee787?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AI_Agents-79c0ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/RAG-d2a8ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Vector_DBs-ffa657?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="./assets/tags.svg" width="880" alt="LLM Evals, AI Agents, RAG, Vector DBs, Claude Code, Apache Airflow, PySpark, Redshift, SageMaker" />
 </p>
 
 ## `$ curl abhishek.prod/status`
@@ -79,5 +70,5 @@ fun_fact: "Coffee makes me sleepy ☕"
 
 <!-- ░░ FOOTER ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,50:1f6feb,100:0d1117&height=120&section=footer" alt="" />
+  <img src="./assets/static/footer.svg" alt="" />
 </p>
