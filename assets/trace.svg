@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="Agent trace hire_abhishek: plan, build and ship, eval suite, reliability judge, respond. Status OK. Contact abhishek22512@gmail.com or x.com/logsofabhi">
+  <style>
+    .s  { transform-box: fill-box; transform-origin: left center; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
+    .f  { animation: fade .4s ease-out both; }
+    @keyframes grow { from { transform: scaleX(0); } }
+    @keyframes fade { from { opacity: 0; } }
+    .d0 { animation-delay: .2s; animation-duration: 4.4s; }
+    .d1 { animation-delay: .3s; }  .d2 { animation-delay: 1.0s; } .d3 { animation-delay: 1.8s; }
+    .d4 { animation-delay: 2.6s; } .d5 { animation-delay: 3.3s; } .d6 { animation-delay: 4.4s; }
+    .scan { animation: scan 4.4s .2s linear both; }
+    @keyframes scan { from { transform: translateX(0); opacity: 1; } 98% { opacity: 1; } to { transform: translateX(520px); opacity: 0; } }
+    .lbl { fill: #c9d1d9; font-size: 13px; }
+    .tree { fill: #484f58; font-size: 13px; }
+    .dur { fill: #8b949e; font-size: 12px; }
+    .key { fill: #79c0ff; font-size: 13px; }
+    .val { fill: #e6edf3; font-size: 13px; }
+  </style>
+
+  <rect x=".5" y=".5" width="879" height="419" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- header -->
+  <text x="24" y="38" fill="#8b949e" font-size="13">trace</text>
+  <text x="74" y="38" fill="#e6edf3" font-size="16" font-weight="700">hire_abhishek</text>
+  <rect x="210" y="22" width="58" height="22" rx="11" fill="#3fb950" fill-opacity=".15" stroke="#3fb950" stroke-opacity=".5"/>
+  <text x="239" y="37.5" fill="#3fb950" font-size="12" font-weight="700" text-anchor="middle">● OK</text>
+  <text x="856" y="38" fill="#8b949e" font-size="12" text-anchor="end">6 spans · 0 errors · trace_id 7a3f…h1re</text>
+  <line x1="24" y1="58" x2="856" y2="58" stroke="#21262d"/>
+
+  <!-- time axis: x 300 → 820 -->
+  <g fill="#6e7681" font-size="11" text-anchor="middle">
+    <text x="300" y="80">0s</text><text x="430" y="80">1.5s</text><text x="560" y="80">3.0s</text><text x="690" y="80">4.5s</text><text x="820" y="80">6.0s</text>
+  </g>
+  <g stroke="#21262d" stroke-dasharray="2 4">
+    <line x1="300" y1="88" x2="300" y2="300"/><line x1="430" y1="88" x2="430" y2="300"/><line x1="560" y1="88" x2="560" y2="300"/><line x1="690" y1="88" x2="690" y2="300"/><line x1="820" y1="88" x2="820" y2="300"/>
+  </g>
+
+  <!-- spans: row y = 106 + i*34 -->
+  <g>
+    <text x="24" y="114" class="lbl" font-weight="700">POST /hire_abhishek</text>
+    <rect class="s d0" x="300" y="100" width="520" height="18" rx="4" fill="#1f6feb"/>
+    <text x="826" y="113" class="dur f d6">6.0s</text>
+
+    <text x="24" y="148" class="f d1"><tspan class="tree">├─ </tspan><tspan class="lbl">plan.understand_problem</tspan></text>
+    <rect class="s d1" x="300" y="134" width="83" height="18" rx="4" fill="#79c0ff"/>
+    <text x="391" y="147" class="dur f d2">0.9s</text>
+
+    <text x="24" y="182" class="f d2"><tspan class="tree">├─ </tspan><tspan class="lbl">agent.build_and_ship</tspan></text>
+    <rect class="s d2" x="373" y="168" width="187" height="18" rx="4" fill="#a371f7"/>
+    <text x="568" y="181" class="dur f d3">2.2s</text>
+
+    <text x="24" y="216" class="f d3"><tspan class="tree">├─ </tspan><tspan class="lbl">eval.run_suite</tspan><tspan class="dur"> (412 cases)</tspan></text>
+    <rect class="s d3" x="544" y="202" width="140" height="18" rx="4" fill="#d29922"/>
+    <text x="692" y="215" class="dur f d4"><tspan fill="#d29922">⚠ 9 flaky</tspan> → fixed</text>
+
+    <text x="24" y="250" class="f d4"><tspan class="tree">├─ </tspan><tspan class="lbl">judge.reliability ≥ 98%</tspan></text>
+    <rect class="s d4" x="674" y="236" width="73" height="18" rx="4" fill="#3fb950"/>
+    <text x="755" y="249" class="dur f d5"><tspan fill="#3fb950">pass ✓</tspan></text>
+
+    <text x="24" y="284" class="f d5"><tspan class="tree">└─ </tspan><tspan class="lbl">respond.ship_to_prod</tspan></text>
+    <rect class="s d5" x="742" y="270" width="78" height="18" rx="4" fill="#3fb950"/>
+    <text x="820" y="300" class="dur f d6" text-anchor="end"><tspan fill="#3fb950">200 OK ✓</tspan></text>
+  </g>
+
+  <!-- playhead -->
+  <line class="scan" x1="300" y1="92" x2="300" y2="292" stroke="#e6edf3" stroke-opacity=".6"/>
+
+  <!-- span attributes -->
+  <g class="f d6">
+    <rect x="24" y="318" width="832" height="80" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="40" y="342" fill="#8b949e" font-size="12">span.attributes</text>
+    <text x="40" y="366"><tspan class="key">contact</tspan><tspan class="dur"> = </tspan><tspan class="val">"abhishek22512@gmail.com"</tspan></text>
+    <text x="460" y="366"><tspan class="key">x</tspan><tspan class="dur"> = </tspan><tspan class="val">"@logsofabhi"</tspan></text>
+    <text x="40" y="388"><tspan class="key">open_to</tspan><tspan class="dur"> = </tspan><tspan class="val">"AI engineering · London · Amsterdam · Berlin"</tspan></text>
+  </g>
+</svg>

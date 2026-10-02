@@ -82,45 +82,19 @@ fun_fact:   "Coffee makes me sleepy ☕"
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-## `$ git log --stats`
+## `$ curl abhishek.prod/status`
 
+<!-- Regenerated every 6 hours from the GitHub API by scripts/generate_status.py (.github/workflows/profile.yml → `output` branch) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=octonawish-akcodes&hide_border=true&background=0d1117&ring=7ee787&fire=ff7b72&currStreakLabel=7ee787&sideLabels=79c0ff&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/octonawish-akcodes/octonawish-akcodes/output/status.svg" width="880" alt="abhishek.prod status page: shipping uptime, pull requests, streaks, stars, followers, languages" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octonawish-akcodes&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7ee787&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top languages" />
-</p>
-
-<!-- Snake: generated daily by .github/workflows/snake.yml into the `output` branch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/octonawish-akcodes/octonawish-akcodes/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/octonawish-akcodes/octonawish-akcodes/output/snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/octonawish-akcodes/octonawish-akcodes/output/snake-dark.svg" />
-  </picture>
-</p>
-
-## `$ tail -f ~/writing`
-
-- 🧵 **Now:** daily logs on evaluating and debugging AI agents in production → [**@logsofabhi**](https://x.com/logsofabhi)
-
-<details>
-  <summary><b>Older posts</b></summary>
-  <br/>
-
-  - [Scaling Hotstar for millions of users with no downtime](https://abhishekk.hashnode.dev/scaling-hotstar-for-millions-of-users-with-no-downtime-miracle-or-engineering)
-  - [How I won my first hackathon](https://blog.wemakedevs.org/how-i-won-my-first-hackathon)
-  - [My KubeCon EU (virtual) experience](https://blog.kubesimplify.com/my-kubecon-euvirtual-experience)
-  - [A complete walkthrough of DevOps](https://blog.kubesimplify.com/a-complete-walk-through-of-devops)
-</details>
-
-<br/>
+## `$ trace --follow hire_abhishek`
 
 <p align="center">
-  <b>Hiring for AI engineering in Europe, or building something with agents?</b><br/>
-  <a href="mailto:abhishek22512@gmail.com">abhishek22512@gmail.com</a> · <a href="https://x.com/logsofabhi">DMs open on X</a>
+  <a href="mailto:abhishek22512@gmail.com">
+    <img src="./assets/trace.svg" width="880" alt="Agent trace hire_abhishek: plan → build & ship → eval suite → reliability judge → 200 OK. Contact abhishek22512@gmail.com" />
+  </a>
 </p>
 
 <!-- ░░ FOOTER ░░ -->

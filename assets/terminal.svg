@@ -48,10 +48,10 @@
     <!-- stability bar -->
     <g class="line l7">
       <text x="28" y="240"><tspan class="warn">[eval]</tspan><tspan class="out"> stability</tspan></text>
-      <rect x="160" y="227" width="320" height="16" rx="3" fill="#21262d"/>
-      <rect class="bar" x="160" y="227" width="313.6" height="16" rx="3" fill="#7ee787"/>
-      <text x="494" y="240" class="pct0 warn">74%</text>
-      <text x="494" y="240" class="pct ok">98% ✓</text>
+      <rect x="190" y="227" width="300" height="16" rx="3" fill="#21262d"/>
+      <rect class="bar" x="190" y="227" width="294" height="16" rx="3" fill="#7ee787"/>
+      <text x="504" y="240" class="pct0 warn">74%</text>
+      <text x="504" y="240" class="pct ok">98% ✓</text>
     </g>
 
     <text x="28" y="268" class="line l8"><tspan class="warn">[ops ]</tspan><tspan class="out"> ticket SLA adherence ......... </tspan><tspan class="pink">40%</tspan><tspan class="out"> → </tspan><tspan class="ok">88% ✓</tspan></text>
