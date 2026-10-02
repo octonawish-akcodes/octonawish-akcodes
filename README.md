@@ -89,14 +89,6 @@ fun_fact:   "Coffee makes me sleepy ☕"
   <img src="https://raw.githubusercontent.com/octonawish-akcodes/octonawish-akcodes/output/status.svg" width="880" alt="abhishek.prod status page: shipping uptime, pull requests, streaks, stars, followers, languages" />
 </p>
 
-## `$ trace --follow hire_abhishek`
-
-<p align="center">
-  <a href="mailto:abhishek22512@gmail.com">
-    <img src="./assets/trace.svg" width="880" alt="Agent trace hire_abhishek: plan → build & ship → eval suite → reliability judge → 200 OK. Contact abhishek22512@gmail.com" />
-  </a>
-</p>
-
 <!-- ░░ FOOTER ░░ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,50:1f6feb,100:0d1117&height=120&section=footer" alt="" />
