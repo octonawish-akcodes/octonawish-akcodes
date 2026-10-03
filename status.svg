@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="Status page: All systems operational. 19 contributions in the last year.">
+<style>.pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.25}}.bar{transform-box:fill-box;transform-origin:bottom;animation:g .6s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}}</style>
+<rect x=".5" y=".5" width="879" height="469" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="30" cy="34" r="6" fill="#3fb950" class="pulse"/>
+<text x="46" y="39" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="start">abhishek.prod</text>
+<text x="186" y="39" fill="#8b949e" font-size="16" font-weight="400" text-anchor="start">/ status</text>
+<text x="856" y="39" fill="#8b949e" font-size="12" font-weight="400" text-anchor="end">updated 2026-10-03 20:20 UTC</text>
+<rect x="24" y="60" width="832" height="44" rx="8" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".5"/>
+<text x="44" y="88" fill="#3fb950" font-size="15" font-weight="700" text-anchor="start">● All systems operational</text>
+<text x="836" y="88" fill="#8b949e" font-size="12" font-weight="400" text-anchor="end">last deploy: 2026-10-02</text>
+<text x="24" y="138" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="start">shipping uptime</text>
+<text x="856" y="138" fill="#8b949e" font-size="12" font-weight="400" text-anchor="end">19 contributions · last 12 months</text>
+<rect class="bar" style="animation-delay:0.000s" x="24.0" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-10-05: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.015s" x="40.1" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-10-12: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.030s" x="56.2" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-10-19: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.045s" x="72.2" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-10-26: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.060s" x="88.3" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-11-02: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.075s" x="104.4" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-11-09: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.090s" x="120.5" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-11-16: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.105s" x="136.6" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-11-23: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.120s" x="152.6" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-11-30: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.135s" x="168.7" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-12-07: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.150s" x="184.8" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-12-14: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.165s" x="200.9" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-12-21: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.180s" x="217.0" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2025-12-28: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.195s" x="233.0" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-01-04: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.210s" x="249.1" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-01-11: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.225s" x="265.2" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-01-18: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.240s" x="281.3" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-01-25: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.255s" x="297.4" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-02-01: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.270s" x="313.4" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-02-08: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.285s" x="329.5" y="150.0" width="13" height="40.0" rx="2" fill="#006d32"><title>week of 2026-02-15: 3 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.300s" x="345.6" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-02-22: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.315s" x="361.7" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-03-01: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.330s" x="377.8" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-03-08: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.345s" x="393.8" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-03-15: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.360s" x="409.9" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-03-22: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.375s" x="426.0" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-03-29: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.390s" x="442.1" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-04-05: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.405s" x="458.2" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-04-12: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.420s" x="474.2" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-04-19: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.435s" x="490.3" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-04-26: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.450s" x="506.4" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-05-03: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.465s" x="522.5" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-05-10: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.480s" x="538.6" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-05-17: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.495s" x="554.6" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-05-24: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.510s" x="570.7" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-05-31: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.525s" x="586.8" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-06-07: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.540s" x="602.9" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-06-14: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.555s" x="619.0" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-06-21: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.570s" x="635.0" y="150.0" width="13" height="40.0" rx="2" fill="#39d353"><title>week of 2026-06-28: 5 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.585s" x="651.1" y="150.0" width="13" height="40.0" rx="2" fill="#006d32"><title>week of 2026-07-05: 3 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.600s" x="667.2" y="150.0" width="13" height="40.0" rx="2" fill="#006d32"><title>week of 2026-07-12: 2 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.615s" x="683.3" y="150.0" width="13" height="40.0" rx="2" fill="#0e4429"><title>week of 2026-07-19: 1 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.630s" x="699.4" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-07-26: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.645s" x="715.4" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-08-02: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.660s" x="731.5" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-08-09: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.675s" x="747.6" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-08-16: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.690s" x="763.7" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-08-23: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.705s" x="779.8" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-08-30: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.720s" x="795.8" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-09-06: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.735s" x="811.9" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-09-13: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.750s" x="828.0" y="168.0" width="13" height="22.0" rx="2" fill="#21262d"><title>week of 2026-09-20: 0 contributions</title></rect>
+<rect class="bar" style="animation-delay:0.765s" x="844.1" y="150.0" width="13" height="40.0" rx="2" fill="#39d353"><title>week of 2026-09-27: 5 contributions</title></rect>
+<text x="24" y="208" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">52 weeks ago</text>
+<text x="856" y="208" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end">this week</text>
+<rect x="24.0" y="228" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="38.0" y="262" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">134</text>
+<text x="38.0" y="280" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">pull requests opened</text>
+<rect x="235.0" y="228" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="249.0" y="262" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">87</text>
+<text x="249.0" y="280" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">PRs merged</text>
+<rect x="446.0" y="228" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="460.0" y="262" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">41</text>
+<text x="460.0" y="280" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">public repos</text>
+<rect x="657.0" y="228" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="671.0" y="262" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">7</text>
+<text x="671.0" y="280" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">commits / 12 mo</text>
+<rect x="24.0" y="302" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="38.0" y="336" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">1d</text>
+<text x="38.0" y="354" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">current streak</text>
+<rect x="235.0" y="302" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="249.0" y="336" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">4d</text>
+<text x="249.0" y="354" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">longest streak</text>
+<rect x="446.0" y="302" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="460.0" y="336" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">6</text>
+<text x="460.0" y="354" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">stars earned</text>
+<rect x="657.0" y="302" width="199.0" height="62" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="671.0" y="336" fill="#e6edf3" font-size="22" font-weight="700" text-anchor="start">90</text>
+<text x="671.0" y="354" fill="#8b949e" font-size="11" font-weight="400" text-anchor="start">followers</text>
+<text x="24" y="396" fill="#e6edf3" font-size="13" font-weight="700" text-anchor="start">runtime languages</text>
+<rect x="24.0" y="406" width="471.0" height="10" rx="3" fill="#3572A5"/>
+<rect x="497.0" y="406" width="242.9" height="10" rx="3" fill="#f1e05a"/>
+<rect x="741.9" y="406" width="39.9" height="10" rx="3" fill="#00ADD8"/>
+<rect x="783.8" y="406" width="39.9" height="10" rx="3" fill="#e34c26"/>
+<rect x="825.7" y="406" width="20.6" height="10" rx="3" fill="#663399"/>
+<rect x="848.3" y="406" width="5.7" height="10" rx="3" fill="#484f58"/>
+<circle cx="29" cy="438" r="5" fill="#3572A5"/>
+<text x="40" y="442" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">Python 57%</text>
+<circle cx="129.0" cy="438" r="5" fill="#f1e05a"/>
+<text x="140.0" y="442" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">JavaScript 29%</text>
+<circle cx="258.6" cy="438" r="5" fill="#00ADD8"/>
+<text x="269.6" y="442" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">Go 5%</text>
+<circle cx="321.6" cy="438" r="5" fill="#e34c26"/>
+<text x="332.6" y="442" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">HTML 5%</text>
+<circle cx="399.40000000000003" cy="438" r="5" fill="#663399"/>
+<text x="410.40000000000003" y="442" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">CSS 3%</text>
+<circle cx="469.80000000000007" cy="438" r="5" fill="#484f58"/>
+<text x="480.80000000000007" y="442" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">Other 1%</text>
+</svg>
