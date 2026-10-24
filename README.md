@@ -29,13 +29,14 @@
 
 ```yaml
 name: Abhishek Kumar
-role: AI Engineer @ BrowserStack
+role: TSE @ SigNoz
 focus:
   - LLM evaluation & autonomous eval workflows
   - Agentic workflows that survive real users
   - Model selection: accuracy × latency × cost × stability
   - Production AI infra on AWS / GCP / Kubernetes
 background:
+  - AI Engineer @ BrowserStack  # LLM evals, 2× Champion Award
   - Data Engineer @ Refyne   # Airflow, 1M+ records/day, SageMaker
   - GSoC @ SPCL, ETH Zürich  # serverless benchmarking, Knative
   - Linux Foundation LiFT Scholar & Dan Kohn Scholarship

@@ -37,7 +37,7 @@
 
   <g class="mono">
     <text x="28" y="72"  class="line l1"><tspan class="prompt">❯</tspan><tspan class="cmd"> whoami</tspan></text>
-    <text x="28" y="96"  class="line l2"><tspan class="hi">Abhishek Kumar</tspan><tspan class="out"> · AI Engineer @ BrowserStack · 2× Champion Award</tspan></text>
+    <text x="28" y="96"  class="line l2"><tspan class="hi">Abhishek Kumar</tspan><tspan class="out"> · TSE @ SigNoz · ex-AI Engineer @ BrowserStack (2× Champion Award)</tspan></text>
 
     <text x="28" y="130" class="line l3"><tspan class="prompt">❯</tspan><tspan class="cmd"> cat focus.txt</tspan></text>
     <text x="28" y="154" class="line l4" fill="#e6edf3">LLM evals · agent reliability · model selection · production AI infra</text>
